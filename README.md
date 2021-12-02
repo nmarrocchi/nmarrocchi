@@ -1,6 +1,5 @@
-### Hi there 👋
 <h1>PADORU PADORU</h1>
-<img src="padoru.gif">
+<img style="width:100%" src="padoru.gif">
 <!--
 **nmarrocchi/nmarrocchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
